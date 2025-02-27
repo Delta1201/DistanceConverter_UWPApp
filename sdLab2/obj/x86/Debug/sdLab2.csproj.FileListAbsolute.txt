@@ -1,0 +1,181 @@
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csprojAssemblyReference.cache
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\App.g.i.cs
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\App.g.cs
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\MainPage.g.cs
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\App.xaml
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\MainPage.xaml
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\App.xbf
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\MainPage.xbf
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csproj.CoreCompileInputs.cache
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\App.xbf
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\MainPage.xbf
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\sdLab2.xr.xml
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\sdLab2.exe
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\sdLab2.pdb
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\resources.pri
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\AppxManifest.xml
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\Core\sdLab2.exe
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\sdLab2.build.appxrecipe
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\System.Runtime.dll
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csproj.CopyComplete
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\sdLab2.exe
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\sdLab2.pdb
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\priconfig.xml
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\resources.resfiles
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\pri.resfiles
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\qualifiers.txt
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\dhaval only\Desktop\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\App.xbf
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\MainPage.xbf
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\sdLab2.xr.xml
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\sdLab2.exe
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\sdLab2.pdb
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\resources.pri
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\AppxManifest.xml
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\Core\sdLab2.exe
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\sdLab2.build.appxrecipe
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\System.Runtime.dll
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csproj.AssemblyReference.cache
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\App.g.i.cs
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\App.g.cs
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\MainPage.g.i.cs
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\MainPage.g.cs
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\App.xaml
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\MainPage.xaml
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\App.xbf
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\MainPage.xbf
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csproj.CoreCompileInputs.cache
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csproj.Up2Date
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\sdLab2.exe
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\sdLab2.pdb
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\priconfig.xml
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\filtered.layout.resfiles
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\excluded.layout.resfiles
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\resources.resfiles
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\pri.resfiles
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\qualifiers.txt
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885454160000000.json
+D:\NC term 6\project show\Dhaval Tailor, sdLab2\sdLab2\sdLab2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637935166560000000.json
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\App.xbf
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\MainPage.xbf
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\sdLab2.xr.xml
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\sdLab2.exe
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\sdLab2.pdb
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\resources.pri
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\AppxManifest.xml
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\Core\sdLab2.exe
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\sdLab2.build.appxrecipe
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\System.Runtime.dll
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csproj.AssemblyReference.cache
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\App.g.i.cs
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\App.g.cs
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\MainPage.g.i.cs
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\MainPage.g.cs
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\App.xaml
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\MainPage.xaml
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\App.xbf
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\MainPage.xbf
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csproj.CoreCompileInputs.cache
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csproj.Up2Date
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\sdLab2.exe
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\sdLab2.pdb
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\priconfig.xml
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\filtered.layout.resfiles
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\excluded.layout.resfiles
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\resources.resfiles
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\pri.resfiles
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\qualifiers.txt
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC term 6\communication\portfolio\project show\Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885490160000000.json
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\App.xbf
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\MainPage.xbf
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\sdLab2.xr.xml
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\sdLab2.exe
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\sdLab2.pdb
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\resources.pri
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\AppxManifest.xml
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\Core\AppxManifest.xml
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\Core\sdLab2.exe
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\sdLab2.build.appxrecipe
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\System.Runtime.dll
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csproj.AssemblyReference.cache
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\App.g.i.cs
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\App.g.cs
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\MainPage.g.i.cs
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\MainPage.g.cs
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\App.xaml
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\MainPage.xaml
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\App.xbf
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\MainPage.xbf
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\XamlSaveStateFile.xml
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csproj.CoreCompileInputs.cache
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\sdLab2.csproj.Up2Date
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\sdLab2.exe
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\sdLab2.pdb
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\ResourceHandlingTask.state
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\priconfig.xml
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\priconfig.xml.intermediate
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\unfiltered.layout.resfiles
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\filtered.layout.resfiles
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\excluded.layout.resfiles
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\resources.resfiles
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\resources.resfiles.intermediate
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\pri.resfiles
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\pri.resfiles.intermediate
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\qualifiers.txt
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\qualifiers.txt.intermediate
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\ProjectArchitectures.txt
+D:\NC term 6\communication\portfolio\project show\r,Dhaval_Tailor, sdLab2_kmsMilesConvertor\sdLab2\sdLab2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885490160000000.json
